@@ -8,4 +8,11 @@ font-amily: Arial, sans-serife; /* Jenis huruf}
 padding: 20px;
 background-color: white;
 border-radius: 15px; /* Membuat sudut menjadi melengkung */
-box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */}
+box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
+}
+.kartu-profil img {
+  width: 150px:
+border-radius: 5%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil {
+  /* ... (kode dari slide sebelumnya
