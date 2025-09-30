@@ -2,3 +2,10 @@ body {
   background-color: #FFFFE0; /* Warna Kuning Cerah */
 font-amily: Arial, sans-serife; /* Jenis huruf}
   
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+background-color: white;
+border-radius: 15px; /* Membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */}
